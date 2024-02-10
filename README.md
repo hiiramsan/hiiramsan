@@ -1,5 +1,5 @@
 ### Hi, I'm Carlos 👋
-- 🌱 I’m currently learning Front End Development and Java
+- 🌱 I’m currently stealing a Software Engineer certificate
 <!--
 **hiiramsan/hiiramsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
