@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑🏼‍💻 Portfolio: <a href="https://hiramsanchez.vercel.app">hiramsanchez.vercel.app</a></p>
+<p align="left">🧑🏼‍💻 Portfolio: <a href="https://hiramsanchez.vercel.app" target="_blank">hiramsanchez.vercel.app</a></p>
 
 ###
 
