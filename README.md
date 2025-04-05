@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑🏼‍💻 Portfolio: hiramsanchez.vercel.app</p>
+<p align="left">🧑🏼‍💻 Portfolio: <a href="hiramsanchez.vercel.app">hiramsanchez.vercel.app</a></p>
 
 ###
 
@@ -52,7 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hiiramsan/hiiramsan/output/snake.svg" alt="Snake animation" />
 
 ###
 
