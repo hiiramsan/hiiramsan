@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 i'm Hiram Sánchez</h1>
+<h1 align="left">Hey 👋 i'm Carlos Hiram Sánchez</h1>
 
 ###
 
-<p align="left">🧑🏼‍💻 Portfolio: <a href="https://hiramsanchez.vercel.app" target="_blank">hiramsanchez.vercel.app</a></p>
+<p align="left">🧑🏼‍💻 Portfolio: <a href="https://www.hiramsan.codes/" target="_blank">hiramsan.codes</a></p>
 
 ###
 
@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">📚 I'm currently learning a lot of things<br>🎯 Goals: win the Champions League with Barcelona</p>
+<p align="left">I’m a 22-year-old Software Engineer passionate about building apps that make the difference <br/>
+
+I specialize in full-stack development because I enjoy suffering on both ends of the stack<br/>
+
+I spend my days building complex solutions for problems I usually create myself.</p>
 
 ###
 
